@@ -1,47 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T21:30:34.064Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6QUdsWUOvz96X4YJPvp2" version="21.7.2" type="gitlab">
+<mxfile host="app.diagrams.net" modified="2023-09-07T13:16:07.465Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="GxWTTk5li_9A4w6HbvQn" version="21.7.2" type="gitlab">
   <diagram name="Page-1" id="zJhxCGBS8uIceYkO7BP5">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gorPxbY95Fz5t8Rw8rJE-61" target="gorPxbY95Fz5t8Rw8rJE-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="gorPxbY95Fz5t8Rw8rJE-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428" y="80" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gorPxbY95Fz5t8Rw8rJE-61" target="gorPxbY95Fz5t8Rw8rJE-65">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="gorPxbY95Fz5t8Rw8rJE-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="50" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-61" value="N = 1751" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-61" value="N = 1751" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="20" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-62" value="We have n = 1751 candidate adduct/species. Obtained using a retention time differences of 2 minutes or less and a mass difference of (NH3)m/z daltons." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="10" width="260" height="70" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-62" value="We have n = 1751 candidate adduct/species. Obtained using a retention time differences of 2 minutes or less and a mass difference of (NH3)m/z daltons." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="43" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-63" value="n = 448" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-63" value="n = 448" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="368" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gorPxbY95Fz5t8Rw8rJE-65" target="gorPxbY95Fz5t8Rw8rJE-69">
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gorPxbY95Fz5t8Rw8rJE-65" target="gorPxbY95Fz5t8Rw8rJE-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gorPxbY95Fz5t8Rw8rJE-65" target="gorPxbY95Fz5t8Rw8rJE-71">
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gorPxbY95Fz5t8Rw8rJE-65" target="gorPxbY95Fz5t8Rw8rJE-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-65" value="n = 1303" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-65" value="n = 1303" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="78" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-67" value="Things where heritability for both mass features in a adduct candidate pair have gone up." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="210" width="340" height="50" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-67" value="Things where heritability for both mass features in a adduct candidate pair have gone up." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="482" y="205" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-68" value="Things where both things have not gone up or only one has gone up." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="150" height="70" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-68" value="Things where both things have not gone up or only one has gone up." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="148" y="70" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-69" value="n = 895 (410 +485)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-69" value="n = 895 (410 +485)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="163" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-71" value="n = 408" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-71" value="n = 408" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="28" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gorPxbY95Fz5t8Rw8rJE-74" value="One goes up &amp;amp; other goes down" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="370" width="90" height="60" as="geometry" />
+        <mxCell id="gorPxbY95Fz5t8Rw8rJE-74" value="One goes up &amp;amp; other goes down" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="238" y="370" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
