@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T18:17:37.827Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Ld1uD1z7tGqY9StUAUoG" version="21.7.4" type="gitlab" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-12T18:18:40.117Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="wp5vwBavhIv0JEl6h0jQ" version="21.7.4" type="gitlab" pages="2">
   <diagram name="Page-1" id="zJhxCGBS8uIceYkO7BP5">
     <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v3G4TnOHDGCPyjuAvnaw-3" value="N = 1751" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="198" y="872" width="160" height="60" as="geometry" />
+        <mxCell id="v3G4TnOHDGCPyjuAvnaw-3" value="N = 1751 candidate pairs." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="192" y="921" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v3G4TnOHDGCPyjuAvnaw-18" value="Consensus trait creation logic." style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="460" y="685" width="380" height="400" as="geometry" />
@@ -162,7 +162,10 @@
           <mxGeometry x="650" y="471" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0T9vmb-LYMe6lHBzuOfy-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Note:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;NH3 adjacent adduct species should have their intensities correlated. Which does seem to be the case more often than not.&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="23" y="496" width="292" height="78" as="geometry" />
+          <mxGeometry x="21" y="632" width="292" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="iayX__8vpTk3WTjZIj2W-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="930" width="68" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
