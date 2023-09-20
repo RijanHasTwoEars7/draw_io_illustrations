@@ -1,9 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T14:34:35.185Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.5" etag="yYTHrJSgkNwF1L7Nk88u" type="gitlab">
+<mxfile host="app.diagrams.net" modified="2023-09-20T14:43:27.967Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="0ubsw1KfeiFXC-3knBMi" version="21.7.5" type="gitlab">
   <diagram name="Page-1" id="YwOJ69lH68UbKv-vZ0bF">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1PhiIBIBR_GTc93TLwWj-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1PhiIBIBR_GTc93TLwWj-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-1" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-2" value="Level: VCF files " style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-12" target="1PhiIBIBR_GTc93TLwWj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-12" target="1PhiIBIBR_GTc93TLwWj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-12" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="166" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-15" target="1PhiIBIBR_GTc93TLwWj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-15" target="1PhiIBIBR_GTc93TLwWj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-15" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-17" target="1PhiIBIBR_GTc93TLwWj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-17" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-19" target="1PhiIBIBR_GTc93TLwWj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-19" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-21" target="1PhiIBIBR_GTc93TLwWj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-21" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="720" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1PhiIBIBR_GTc93TLwWj-23" target="1PhiIBIBR_GTc93TLwWj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-23" value="" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="506" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-25" value="Chromosome VCFs" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-29" value="Chromosome VCFs" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-31" value="Chromosome VCFs" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="486" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-33" value="Chromosome VCFs" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="700" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-35" value="Level:Species" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-36" value="Level:Versions" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1PhiIBIBR_GTc93TLwWj-37" value="Level:Chromosomes" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="650" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
